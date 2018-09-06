@@ -21,7 +21,7 @@ class inputstream
 	{
 		public static void main(String a[])
 			{
-				loop obj=new loop();
+				stream obj=new stream();
 				obj.show();					
 			}
 	}
